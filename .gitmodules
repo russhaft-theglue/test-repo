@@ -1,0 +1,3 @@
+[submodule "metro-otp-feeds"]
+	path = metro-otp-feeds
+	url = https://github.com/russhaft-theglue/metro-otp-feeds.git
